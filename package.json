@@ -1,10 +1,10 @@
 {
   "name": "lambda-ghostscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ghostscript for Lambda",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sina-masnadi/lambda-ghostscript.git"
+    "url": "git+https://github.com/mcodina86/lambda-ghostscript.git"
   },
   "author": "Sina Masnadi",
   "license": "ISC",
