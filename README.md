@@ -14,6 +14,6 @@ https://github.com/sina-masnadi/node-gs
 
 After copying the compiled Ghostscript files to your project and adding the npm package, you can use the executablePath('path to ghostscript') function to point the package to the compiled Ghostscript files that you added earlier.
 
-# Credit
+**Credit**
 
 Based on Sina Masnadi package. Lambda updated to 9.25
