@@ -16,4 +16,4 @@ After copying the compiled Ghostscript files to your project and adding the npm 
 
 **Credit**
 
-Based on Sina Masnadi package. Lambda updated to 9.25
+Based on Sina Masnadi package. Ghostscript updated to 9.25
